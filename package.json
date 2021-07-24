@@ -1,0 +1,15 @@
+{
+  "name": "cool-pandas",
+  "version": "1.0.0",
+  "description": "A project about pandas",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ."
+  },
+  "author": "Lucas Alves Rego (Devlulcas)",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
